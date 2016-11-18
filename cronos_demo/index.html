@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cronos II Robots 2016</title>
+	
+	<link rel="shortcut icon" href="img/cronos-logo.png" />
+	<link href="css/style.css" rel="stylesheet">
+	
+	<script src="js/main.js"></script>
+
+</head>
+
+<body>
+<br>
+	<div align="center">
+		<img src="img/logo.png" width="400" height="200">
+	</div>
+	<br><br>
+	<h1 align="center">SEGUIDOR DE LINHA</h1>
+	<div id="contenedor">
+		<div class="reloj" id="Horas">00</div>
+		<div class="reloj" id="Minutos">:00</div>
+		<div class="reloj" id="Segundos">:00</div>
+		<div class="reloj" id="Centesimas">:00</div>
+		<input type="button" class="boton" id="inicio" value="Start &#9658;" onclick="inicio();">
+		<input type="button" class="boton" id="parar" value="Stop &#8718;" onclick="parar();" disabled>
+		<input type="button" class="boton" id="continuar" value="Resume &#8634;" onclick="inicio();" disabled>
+		<input type="button" class="boton" id="reinicio" value="Reset &#8635;" onclick="reinicio();" disabled>
+	</div>
+</body>
+</html>
