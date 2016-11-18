@@ -4,8 +4,8 @@ Olympic Chronometer - Project developed to time robos time in the championship I
 ![](https://github.com/rodriguesfas/Cron/blob/master/img/cron.png)
 
 #Credits
-- FJN - Faculty of juazeiro do Norte
-- Objective School of Juazeiro
+- FJN - Faculdade de Juazeiro do Norte
+- Coilégio Objetivo of Juazeiro
 
 - Alexandro Ferreira
 - Francisco of Assis de Souza Rodrigues
