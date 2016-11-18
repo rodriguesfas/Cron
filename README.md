@@ -1,5 +1,5 @@
 # Cron
-Olympic Chronometer - Project developed to time robos time in the championship II Roobots that occurs in the city of Juaziro do Norte - CE.
+Olympic Chronometer - Project developed to time robos time in the championship II Roobots that occurs in the city of Juazeiro do Norte - CE.
 
 ![](https://github.com/rodriguesfas/Cron/blob/master/img/cron.png)
 
