@@ -12,3 +12,4 @@ Olympic Chronometer - Project developed to time robos time in the championship I
 - Rogerio Alencar Filho
 
 #References
+http://codepen.io/Romlonix/pen/Fwsza
