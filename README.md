@@ -3,6 +3,10 @@ Olympic Chronometer - Project developed to time robos time in the championship I
 
 ![](https://github.com/rodriguesfas/Cron/blob/master/img/cron.png)
 
+![](https://github.com/rodriguesfas/Cron/blob/master/img/02.jpg)
+
+![](https://github.com/rodriguesfas/Cron/blob/master/img/03.jpg)
+
 #Credits
 - FJN - Faculdade de Juazeiro do Norte
 - Coilégio Objetivo of Juazeiro
